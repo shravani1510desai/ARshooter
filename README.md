@@ -1,0 +1,2 @@
+# ARshooter
+AR Shooter is a simple shooting game which uses idea of Augmented Reality (AR). Like most of the other shooting games we have to search the object through our AR camera and then shoot the object appeared on the screen with the help of aimer and shoot button. After successfully shooting the object your score will be increase by 10 points, to increase the difficulty level there is a timer of 60 seconds.
